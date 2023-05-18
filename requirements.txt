@@ -1,0 +1,4 @@
+redis
+SQLAlchemy==1.4.44
+psycopg2-binary
+black==22.10.0
